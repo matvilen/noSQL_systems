@@ -1,0 +1,911 @@
+[
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR01",
+    "body": {
+      "id_of_client": "5H3T",
+      "client_age": "37",
+      "client_personal_data": "Сорокин Илья Ильич",
+      "id_of_procedure": "PR01",
+      "date_of_procedure": "2018-01-22",
+      "price": "5067",
+      "id_of_specialist": "SP03",
+      "service": [
+        "Ультразвуковая чистка лица",
+        "Женская, мужская и детская стрижка",
+        "Наращивание и коррекция ногтей гелем",
+        "Наращивание и окраска волос",
+        "Пилинг стоп"
+      ],
+      "cosmetics": [
+        "Лак ART-VISAGE",
+        "Ромашка"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR02",
+    "body": {
+      "id_of_client": "J4SI",
+      "client_age": "49",
+      "client_personal_data": "Попов Иван Андреевич",
+      "id_of_procedure": "PR02",
+      "date_of_procedure": "2018-02-03",
+      "price": "2570",
+      "id_of_specialist": "SP01",
+      "service": [
+        "Уход за руками",
+        "Покрытие гель-лаком",
+        "Брондирование и колорирование",
+        "Ламинирование волос"
+      ],
+      "cosmetics": [
+        "Чабрец",
+        "Клевер"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR03",
+    "body": {
+      "id_of_client": "S747",
+      "client_age": "63",
+      "client_personal_data": "Филатова Елизавета Артемьевна",
+      "id_of_procedure": "PR03",
+      "date_of_procedure": "2021-12-30",
+      "price": "4289",
+      "id_of_specialist": "SP02",
+      "service": [
+        "Маникюр Европейский",
+        "Артдизайн",
+        "Завивка и выпрямление волос",
+        "Каутеризация"
+      ],
+      "cosmetics": [
+        "Крем для лица A`PIEU с гликолевой кислотой",
+        "Календула",
+        "Кокосовое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR04",
+    "body": {
+      "id_of_client": "YK9N",
+      "client_age": "64",
+      "client_personal_data": "Миронова Кира Захаровна",
+      "id_of_procedure": "PR04",
+      "date_of_procedure": "2016-06-26",
+      "price": "5559",
+      "id_of_specialist": "SP06",
+      "service": [
+        "Артдизайн",
+        "Парафинотерапия"
+      ],
+      "cosmetics": [
+        "Лак OPI Nail Lacquer Classics"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR05",
+    "body": {
+      "id_of_client": "YK9N",
+      "client_age": "24",
+      "client_personal_data": "Зимин Тимур Александрович",
+      "id_of_procedure": "PR05",
+      "date_of_procedure": "2020-10-09",
+      "price": "2901",
+      "id_of_specialist": "SP05",
+      "service": [
+        "Лимфодренаж"
+      ],
+      "cosmetics": [
+        "Лак Benecos Happy Nails"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR06",
+    "body": {
+      "id_of_client": "8LW3",
+      "client_age": "37",
+      "client_personal_data": "Высоцкая Виктория Андреевна",
+      "id_of_procedure": "PR06",
+      "date_of_procedure": "2016-02-13",
+      "price": "4988",
+      "id_of_specialist": "SP07",
+      "service": [
+        "Горячие обвертывания",
+        "Spa-маникюр"
+      ],
+      "cosmetics": [
+        "Клевер"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR07",
+    "body": {
+      "id_of_client": "HXAB",
+      "client_age": "20",
+      "client_personal_data": "Давыдова Маргарита Матвеевна",
+      "id_of_procedure": "PR07",
+      "date_of_procedure": "2016-10-31",
+      "price": "6418",
+      "id_of_specialist": "SP04",
+      "service": [
+        "Каутеризация",
+        "Маникюр Аппаратный",
+        "Укрепление натуральных ногтей",
+        "Педикюр Классический"
+      ],
+      "cosmetics": [
+        "Липа",
+        "Масло семян черного тмина"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR08",
+    "body": {
+      "id_of_client": "QPKX",
+      "client_age": "67",
+      "client_personal_data": "Петрова Софья Михайловна",
+      "id_of_procedure": "PR08",
+      "date_of_procedure": "2017-12-03",
+      "price": "6753",
+      "id_of_specialist": "SP08",
+      "service": [
+        "Укладки и тонирование",
+        "Биопилинг кожи головы"
+      ],
+      "cosmetics": [
+        "Лак Golden Rose"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR09",
+    "body": {
+      "id_of_client": "1AI2",
+      "client_age": "66",
+      "client_personal_data": "Мельникова Айлин Максимовна",
+      "id_of_procedure": "PR09",
+      "date_of_procedure": "2019-02-11",
+      "price": "4818",
+      "id_of_specialist": "SP13",
+      "service": [
+        "Долговременная укладка"
+      ],
+      "cosmetics": [
+        "Крем для лица A`PIEU с гликолевой кислотой",
+        "Облепиховое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR10",
+    "body": {
+      "id_of_client": "T2F3",
+      "client_age": "62",
+      "client_personal_data": "Сычева Елизавета Кирилловна",
+      "id_of_procedure": "PR10",
+      "date_of_procedure": "2019-01-13",
+      "price": "6895",
+      "id_of_specialist": "SP09",
+      "service": [
+        "Артдизайн",
+        "Цветовой дизайн волос",
+        "Spa-педикюр",
+        "Массаж рук",
+        "Биопилинг кожи головы"
+      ],
+      "cosmetics": [
+        "Травы Горного Крым"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR11",
+    "body": {
+      "id_of_client": "9YY4",
+      "client_age": "62",
+      "client_personal_data": "Калинин Фёдор Максимович",
+      "id_of_procedure": "PR11",
+      "date_of_procedure": "2016-03-14",
+      "price": "1401",
+      "id_of_specialist": "SP11",
+      "service": [
+        "Женская, мужская и детская стрижка",
+        "Гальванизация"
+      ],
+      "cosmetics": [
+        "Алерана вит-мин комплекс табл №60",
+        "Кунжутное масло",
+        "Календула"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR12",
+    "body": {
+      "id_of_client": "C84B",
+      "client_age": "44",
+      "client_personal_data": "Герасимова Юлия Савельевна",
+      "id_of_procedure": "PR12",
+      "date_of_procedure": "2019-04-12",
+      "price": "4927",
+      "id_of_specialist": "SP12",
+      "service": [
+        "Наращивание и коррекция ногтей гелем",
+        "Парафинотерапия",
+        "Кератиновое разглаживание",
+        "Брондирование и колорирование",
+        "Лимфодренаж"
+      ],
+      "cosmetics": [
+        "Лак Schwarzkopf Professional Silhouette"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR13",
+    "body": {
+      "id_of_client": "7HZK",
+      "client_age": "46",
+      "client_personal_data": "Пантелеева Милана Адамовна",
+      "id_of_procedure": "PR13",
+      "date_of_procedure": "2018-06-13",
+      "price": "5192",
+      "id_of_specialist": "SP14",
+      "service": [
+        "Аппаратный"
+      ],
+      "cosmetics": [
+        "Льняное масло",
+        "Клевер",
+        "Витамин Е альфа-токоферола ацетат 200мг капс №10"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR14",
+    "body": {
+      "id_of_client": "YK9N",
+      "client_age": "38",
+      "client_personal_data": "Семенова Вероника Тимуровна",
+      "id_of_procedure": "PR14",
+      "date_of_procedure": "2017-08-12",
+      "price": "612",
+      "id_of_specialist": "SP15",
+      "service": [
+        "Укрепление натуральных ногтей",
+        "Свадебные и вечерние прически"
+      ],
+      "cosmetics": [
+        "Кокосовое масло",
+        "Аевит капс №20"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR15",
+    "body": {
+      "id_of_client": "INYK",
+      "client_age": "30",
+      "client_personal_data": "Седов Егор Константинович",
+      "id_of_procedure": "PR15",
+      "date_of_procedure": "2018-12-22",
+      "price": "5907",
+      "id_of_specialist": "SP20",
+      "service": [
+        "Ламинирование волос"
+      ],
+      "cosmetics": [
+        "Витамин Е альфа-токоферола ацетат 200мг капс №20",
+        "Аевит капс №20"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR16",
+    "body": {
+      "id_of_client": "Z8Q2",
+      "client_age": "34",
+      "client_personal_data": "Савельев Василий Олегович",
+      "id_of_procedure": "PR16",
+      "date_of_procedure": "2016-11-21",
+      "price": "1935",
+      "id_of_specialist": "SP19",
+      "service": [
+        "Массаж рук",
+        "Педикюр Классический",
+        "Маникюр Аппаратный"
+      ],
+      "cosmetics": [
+        "Кокосовое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR17",
+    "body": {
+      "id_of_client": "8VNM",
+      "client_age": "55",
+      "client_personal_data": "Павлова Полина Артемьевна",
+      "id_of_procedure": "PR17",
+      "date_of_procedure": "2018-03-21",
+      "price": "5747",
+      "id_of_specialist": "SP16",
+      "service": [
+        "Педикюр Классический",
+        "Массаж рук",
+        "Маникюр Европейский"
+      ],
+      "cosmetics": [
+        "Лак Schwarzkopf Professional Silhouette"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR18",
+    "body": {
+      "id_of_client": "QFNA",
+      "client_age": "43",
+      "client_personal_data": "Мещеряков Александр Львович",
+      "id_of_procedure": "PR18",
+      "date_of_procedure": "2019-02-05",
+      "price": "4962",
+      "id_of_specialist": "SP18",
+      "service": [
+        "Маникюр Аппаратный",
+        "Лимфодренаж",
+        "Завивка и выпрямление волос",
+        "Долгосрочное покрытие гель-лаками (ши-лаками)",
+        "Вакуумная чистка лица"
+      ],
+      "cosmetics": [
+        "Витамин Е альфа-токоферола ацетат 200мг капс №20",
+        "Тыквенное масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR19",
+    "body": {
+      "id_of_client": "DMSH",
+      "client_age": "29",
+      "client_personal_data": "Суворова Виктория Эмильевна",
+      "id_of_procedure": "PR19",
+      "date_of_procedure": "2016-05-17",
+      "price": "3579",
+      "id_of_specialist": "SP17",
+      "service": [
+        "Свадебные и вечерние прически",
+        "Парафинотерапия",
+        "Биопилинг кожи головы",
+        "Массаж рук"
+      ],
+      "cosmetics": [
+        "Увлажняющий дневной крем для чувствительной кожи Redness Solutions",
+        "Ромашка"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR20",
+    "body": {
+      "id_of_client": "IDT2",
+      "client_age": "18",
+      "client_personal_data": "Рогова Екатерина Данииловна",
+      "id_of_procedure": "PR20",
+      "date_of_procedure": "2021-05-19",
+      "price": "5226",
+      "id_of_specialist": "SP21",
+      "service": [
+        "Маникюр классический мужской и детский"
+      ],
+      "cosmetics": [
+        "Лак Golden Rose",
+        "Лак NailLOOK Stone Spa"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR21",
+    "body": {
+      "id_of_client": "62TC",
+      "client_age": "50",
+      "client_personal_data": "Чернова Мария Артёмовна",
+      "id_of_procedure": "PR21",
+      "date_of_procedure": "2021-01-26",
+      "price": "6568",
+      "id_of_specialist": "SP",
+      "service": [
+        "Лимфодренаж",
+        "Долговременная укладка",
+        "Дарсонваль"
+      ],
+      "cosmetics": [
+        "Льняное масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR22",
+    "body": {
+      "id_of_client": "VJIM",
+      "client_age": "31",
+      "client_personal_data": "Некрасова Маргарита Константиновна",
+      "id_of_procedure": "PR22",
+      "date_of_procedure": "2020-11-24",
+      "price": "1971",
+      "id_of_specialist": "SP23",
+      "service": [
+        "Укрепление натуральных ногтей",
+        "Ламинирование волос",
+        "Ионофорез"
+      ],
+      "cosmetics": [
+        "Лак OSIS+Session, экстрасильная фиксация"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR23",
+    "body": {
+      "id_of_client": "RA8X",
+      "client_age": "63",
+      "client_personal_data": "Зимин Тимур Александрович",
+      "id_of_procedure": "PR23",
+      "date_of_procedure": "2021-08-14",
+      "price": "2634",
+      "id_of_specialist": "SP25",
+      "service": [
+        "Мелирование и блондирование",
+        "Плетение косичек",
+        "Брашинг"
+      ],
+      "cosmetics": [
+        "Касторовое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR24",
+    "body": {
+      "id_of_client": "6KJY",
+      "client_age": "35",
+      "client_personal_data": "Яковлева Вероника Матвеевна",
+      "id_of_procedure": "PR24",
+      "date_of_procedure": "2016-03-12",
+      "price": "4726",
+      "id_of_specialist": "SP22",
+      "service": [
+        "Наращивание и коррекция ногтей гелем",
+        "Массаж рук"
+      ],
+      "cosmetics": [
+        "Рыжиковое масло",
+        "Масло черного тмина"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR25",
+    "body": {
+      "id_of_client": "1AI2",
+      "client_age": "56",
+      "client_personal_data": "Ильина Валерия Николаевна",
+      "id_of_procedure": "PR25",
+      "date_of_procedure": "2019-04-19",
+      "price": "1584",
+      "id_of_specialist": "SP24",
+      "service": [
+        "Уход за волосами и лечение волос",
+        "Покрытие гель-лаком",
+        "Завивка и выпрямление волос",
+        "Наращивание и коррекция ногтей гелем",
+        "Артдизайн"
+      ],
+      "cosmetics": [
+        "Консумед"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR26",
+    "body": {
+      "id_of_client": "44MD",
+      "client_age": "46",
+      "client_personal_data": "Пономарева Карина Андреевна",
+      "id_of_procedure": "PR26",
+      "date_of_procedure": "2019-01-17",
+      "price": "2181",
+      "id_of_specialist": "SP01",
+      "service": [
+        "Долговременная укладка",
+        "Покрытие лаком"
+      ],
+      "cosmetics": [
+        "Лен",
+        "Лак Golden Rose"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR27",
+    "body": {
+      "id_of_client": "0TJQ",
+      "client_age": "69",
+      "client_personal_data": "Смирнов Александр Александрович",
+      "id_of_procedure": "PR27",
+      "date_of_procedure": "2021-06-18",
+      "price": "1459",
+      "id_of_specialist": "SP05",
+      "service": [
+        "Плетение косичек"
+      ],
+      "cosmetics": [
+        "Лак Schwarzkopf Professional Silhouette"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR28",
+    "body": {
+      "id_of_client": "0TJQ",
+      "client_age": "30",
+      "client_personal_data": "Прохоров Александр Александрович",
+      "id_of_procedure": "PR28",
+      "date_of_procedure": "2019-03-23",
+      "price": "6836",
+      "id_of_specialist": "SP10",
+      "service": [
+        "Брашинг",
+        "Укладки и тонирование",
+        "Покрытие лаком"
+      ],
+      "cosmetics": [
+        "Кедровое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR29",
+    "body": {
+      "id_of_client": "RA8X",
+      "client_age": "60",
+      "client_personal_data": "Грачев Никита Дамирович",
+      "id_of_procedure": "PR29",
+      "date_of_procedure": "2021-03-28",
+      "price": "5433",
+      "id_of_specialist": "SP16",
+      "service": [
+        "Амбре-окрашивание",
+        "Лимфодренаж",
+        "Вакуумная чистка лица"
+      ],
+      "cosmetics": [
+        "Льняное масло",
+        "Лак Matrix Vavoom Freezing Spray"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR30",
+    "body": {
+      "id_of_client": "C84B",
+      "client_age": "49",
+      "client_personal_data": "Иванова Софья Максимовна",
+      "id_of_procedure": "PR30",
+      "date_of_procedure": "2018-06-13",
+      "price": "3338",
+      "id_of_specialist": "SP19",
+      "service": [
+        "Педикюр Классический",
+        "Отбеливание",
+        "Spa-педикюр",
+        "Массаж рук"
+      ],
+      "cosmetics": [
+        "Травы Алтая",
+        "Лак WULA"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR31",
+    "body": {
+      "id_of_client": "USY2",
+      "client_age": "65",
+      "client_personal_data": "Плотникова Александра Григорьевна",
+      "id_of_procedure": "PR31",
+      "date_of_procedure": "2019-03-31",
+      "price": "635",
+      "id_of_specialist": "SP24",
+      "service": [
+        "Женская, мужская и детская стрижка",
+        "Аппаратный",
+        "Мелирование и блондирование"
+      ],
+      "cosmetics": [
+        "Липа",
+        "Лак ART-VISAGE"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR32",
+    "body": {
+      "id_of_client": "8IDC",
+      "client_age": "66",
+      "client_personal_data": "Чернова Мария Артёмовна",
+      "id_of_procedure": "PR32",
+      "date_of_procedure": "2017-10-09",
+      "price": "4091",
+      "id_of_specialist": "SP02",
+      "service": [
+        "Долгосрочное покрытие гель-лаками (ши-лаками)",
+        "Spa-маникюр"
+      ],
+      "cosmetics": [
+        "Лак WULA",
+        "Миндальное масло",
+        "Рыжиковое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR33",
+    "body": {
+      "id_of_client": "C84B",
+      "client_age": "43",
+      "client_personal_data": "Кудряшова Агата Егоровна",
+      "id_of_procedure": "PR33",
+      "date_of_procedure": "2021-06-04",
+      "price": "3713",
+      "id_of_specialist": "SP01",
+      "service": [
+        "Завивка и выпрямление волос",
+        "Покрытие гель-лаком",
+        "Spa-маникюр"
+      ],
+      "cosmetics": [
+        "Рыжиковое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR34",
+    "body": {
+      "id_of_client": "UTNZ",
+      "client_age": "56",
+      "client_personal_data": "Зубков Роман Александрович",
+      "id_of_procedure": "PR34",
+      "date_of_procedure": "2019-06-24",
+      "price": "3275",
+      "id_of_specialist": "SP19",
+      "service": [
+        "Брондирование и колорирование",
+        "Амбре-окрашивание",
+        "Вакуумная чистка лица",
+        "Парафинотерапия"
+      ],
+      "cosmetics": [
+        "Витамин Е альфа-токоферола ацетат 200мг капс №10",
+        "Льняное масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR35",
+    "body": {
+      "id_of_client": "T9UC",
+      "client_age": "36",
+      "client_personal_data": "Калинин Артём Максимович",
+      "id_of_procedure": "PR35",
+      "date_of_procedure": "2018-07-16",
+      "price": "6609",
+      "id_of_specialist": "SP22",
+      "service": [
+        "Покрытие гель-лаком",
+        "Маникюр Аппаратный",
+        "Дарсонваль",
+        "Ламинирование волос",
+        "Горячие обвертывания"
+      ],
+      "cosmetics": [
+        "Крем SHISEIDO"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR36",
+    "body": {
+      "id_of_client": "8VNM",
+      "client_age": "62",
+      "client_personal_data": "Алексеева Ольга Ярославовна",
+      "id_of_procedure": "PR36",
+      "date_of_procedure": "2019-01-07",
+      "price": "6248",
+      "id_of_specialist": "SP10",
+      "service": [
+        "Женская, мужская и детская стрижка",
+        "Маникюр Европейский",
+        "Педикюр Классический"
+      ],
+      "cosmetics": [
+        "Аевит капс №20",
+        "Облепиховое масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR37",
+    "body": {
+      "id_of_client": "0TJQ",
+      "client_age": "22",
+      "client_personal_data": "Долгова Александра Антоновна",
+      "id_of_procedure": "PR37",
+      "date_of_procedure": "2018-08-08",
+      "price": "2935",
+      "id_of_specialist": "SP11",
+      "service": [
+        "Цветовой дизайн волос",
+        "Отбеливание",
+        "Лимфодренаж",
+        "Горячие обвертывания"
+      ],
+      "cosmetics": [
+        "Тыквенное масло",
+        "Лак Essence",
+        "Лак WULA"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR38",
+    "body": {
+      "id_of_client": "5S12",
+      "client_age": "69",
+      "client_personal_data": "Жарова Анастасия Ивановна",
+      "id_of_procedure": "PR38",
+      "date_of_procedure": "2021-05-11",
+      "price": "1499",
+      "id_of_specialist": "SP11",
+      "service": [
+        "Spa-педикюр",
+        "Кератиновое разглаживание",
+        "Наращивание и окраска волос",
+        "Уход за волосами и лечение волос"
+      ],
+      "cosmetics": [
+        "Календула"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR39",
+    "body": {
+      "id_of_client": "YR0Y",
+      "client_age": "31",
+      "client_personal_data": "Круглова Амина Матвеевна",
+      "id_of_procedure": "PR39",
+      "date_of_procedure": "2018-10-23",
+      "price": "4054",
+      "id_of_specialist": "SP08",
+      "service": [
+        "Дарсонваль",
+        "Завивка и выпрямление волос",
+        "Наращивание и окраска волос",
+        "Spa-маникюр"
+      ],
+      "cosmetics": [
+        "Тыквенное масло",
+        "Льняное масло"
+      ]
+    }
+  },
+  {
+    "index": "salon_procedure",
+    "doc_type": "Procedure",
+    "id": "PR40",
+    "body": {
+      "id_of_client": "9YY4",
+      "client_age": "43",
+      "client_personal_data": "Суворова Виктория Эмильевна",
+      "id_of_procedure": "PR40",
+      "date_of_procedure": "2019-02-02",
+      "price": "2795",
+      "id_of_specialist": "SP25",
+      "service": [
+        "Гальванизация",
+        "Дарсонваль"
+      ],
+      "cosmetics": [
+        "Биотин Форте капс №60",
+        "Травы Алтая",
+        "Лак Schwarzkopf Professional Silhouette"
+      ]
+    }
+  }
+]

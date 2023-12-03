@@ -1,0 +1,29 @@
+[
+   {
+	"index": "salon_procedure",
+	"doc_type": "Procedure", 
+	"id":"", 
+	body: {
+		"id_клиента": "", 
+		"client_age":"", 
+		"client_personal_data"персональные_данные*,  
+		"id_of_procedure":, 
+		"date_of_procedure":, 
+		"price", 
+		"id_of_specialist":,  
+		""[услуга*], 
+		[препарат*]
+	      }
+    }
+
+{index:"salon_master", 
+doc_type:"Master", 
+id, 
+body: 
+	{специализация, 
+	стаж_работы, 
+	сведения_о_специалисте, 
+	график_работы*, 
+	[отзыв_о_специалисте*] 
+	}
+}

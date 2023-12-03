@@ -1,0 +1,430 @@
+[
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR01",
+  "body": {
+    "arendator_id": "AR01",
+    "arendator_data": "Шаповалов Игорь Максимович",
+    "arenda_id": "1065",
+    "date_of_arenda": "2019-01-13",
+    "numb_days_of_arend": "10",
+    "price": "7000",
+    "car_id": "CR03"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR02",
+  "body": {
+    "arendator_id": "AR02",
+    "arendator_data": "Семенова Ева Владимировна",
+    "arenda_id": "1089",
+    "date_of_arenda": "2020-03-23",
+    "numb_days_of_arend": "1",
+    "price": "500",
+    "car_id": "CR12"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR03",
+  "body": {
+    "arendator_id": "AR03",
+    "arendator_data": "Иванов Александр Петрович",
+    "arenda_id": "1092",
+    "date_of_arenda": "2020-03-26",
+    "numb_days_of_arend": "7",
+    "price": "1500",
+    "car_id": "CR08"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR04",
+  "body": {
+    "arendator_id": "AR04",
+    "arendator_data": "Ковалева Анна Сергеевна",
+    "arenda_id": "1107",
+    "date_of_arenda": "2020-04-10",
+    "numb_days_of_arend": "5",
+    "price": "1200",
+    "car_id": "CR15"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR05",
+  "body": {
+    "arendator_id": "AR05",
+    "arendator_data": "Сидоров Иван Дмитриевич",
+    "arenda_id": "1123",
+    "date_of_arenda": "2020-05-02",
+    "numb_days_of_arend": "9",
+    "price": "2500",
+    "car_id": "CR05"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR06",
+  "body": {
+    "arendator_id": "AR06",
+    "arendator_data": "Петрова Екатерина Владимировна",
+    "arenda_id": "1156",
+    "date_of_arenda": "2020-07-18",
+    "numb_days_of_arend": "3",
+    "price": "800",
+    "car_id": "CR20"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR07",
+  "body": {
+    "arendator_id": "AR07",
+    "arendator
+
+_data": "Григорьев Денис Викторович",
+    "arenda_id": "1187",
+    "date_of_arenda": "2020-10-01",
+    "numb_days_of_arend": "12",
+    "price": "3500",
+    "car_id": "CR11"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR08",
+  "body": {
+    "arendator_id": "AR08",
+    "arendator_data": "Антонов Максим Александрович",
+    "arenda_id": "1212",
+    "date_of_arenda": "2020-12-03",
+    "numb_days_of_arend": "6",
+    "price": "1800",
+    "car_id": "CR01"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR09",
+  "body": {
+    "arendator_id": "AR09",
+    "arendator_data": "Николаева Ольга Ивановна",
+    "arenda_id": "1245",
+    "date_of_arenda": "2021-02-17",
+    "numb_days_of_arend": "4",
+    "price": "1000",
+    "car_id": "CR28"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR10",
+  "body": {
+    "arendator_id": "AR10",
+    "arendator_data": "Морозов Дмитрий Сергеевич",
+    "arenda_id": "1291",
+    "date_of_arenda": "2021-06-08",
+    "numb_days_of_arend": "8",
+    "price": "2200",
+    "car_id": "CR14"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR11",
+  "body": {
+    "arendator_id": "AR11",
+    "arendator_data": "Кузнецова Александра Денисовна",
+    "arenda_id": "1352",
+    "date_of_arenda": "2021-10-15",
+    "numb_days_of_arend": "3",
+    "price": "900",
+    "car_id": "CR26"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR12",
+  "body": {
+    "arendator_id": "AR12",
+    "arendator_data": "Смирнов Игорь Васильевич",
+    "arenda_id": "1419",
+    "date_of_arenda": "2022-02-27",
+    "numb_days_of_arend": "11",
+    "price": "3200",
+    "car_id": "CR09"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR13",
+  "body": {
+    "arendator_id": "AR13",
+    "arendator_data": "Воронина Елена Андреевна",
+    "arenda_id": "1494",
+    "date_of_arenda": "2022-07
+
+-10",
+    "numb_days_of_arend": "5",
+    "price": "1400",
+    "car_id": "CR18"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR14",
+  "body": {
+    "arendator_id": "AR14",
+    "arendator_data": "Герасимов Виктор Михайлович",
+    "arenda_id": "1575",
+    "date_of_arenda": "2022-12-26",
+    "numb_days_of_arend": "9",
+    "price": "2500",
+    "car_id": "CR06"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR15",
+  "body": {
+    "arendator_id": "AR15",
+    "arendator_data": "Соколова Алена Павловна",
+    "arenda_id": "1664",
+    "date_of_arenda": "2023-05-12",
+    "numb_days_of_arend": "2",
+    "price": "600",
+    "car_id": "CR25"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR16",
+  "body": {
+    "arendator_id": "AR16",
+    "arendator_data": "Павлов Иван Викторович",
+    "arenda_id": "1761",
+    "date_of_arenda": "2023-10-27",
+    "numb_days_of_arend": "7",
+    "price": "1800",
+    "car_id": "CR03"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR17",
+  "body": {
+    "arendator_id": "AR17",
+    "arendator_data": "Козлова Ольга Васильевна",
+    "arenda_id": "1866",
+    "date_of_arenda": "2024-04-12",
+    "numb_days_of_arend": "6",
+    "price": "1500",
+    "car_id": "CR19"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR18",
+  "body": {
+    "arendator_id": "AR18",
+    "arendator_data": "Ефимов Сергей Андреевич",
+    "arenda_id": "1981",
+    "date_of_arenda": "2024-10-01",
+    "numb_days_of_arend": "4",
+    "price": "1000",
+    "car_id": "CR30"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR19",
+  "body": {
+    "arendator_id": "AR19",
+    "arendator_data": "Калинина Екатерина Дмитриевна",
+    "arenda_id": "2106",
+    "date_of_arenda": "2025-04-17",
+    "numb_days_of_arend": "10",
+    "price": "3000",
+    "car_id": "CR13"
+  }
+},
+{
+  "index": "arendator",
+  "
+
+doc_type": "Arendator",
+  "id": "AR20",
+  "body": {
+    "arendator_id": "AR20",
+    "arendator_data": "Медведев Андрей Иванович",
+    "arenda_id": "2241",
+    "date_of_arenda": "2025-11-05",
+    "numb_days_of_arend": "3",
+    "price": "900",
+    "car_id": "CR23"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR21",
+  "body": {
+    "arendator_id": "AR21",
+    "arendator_data": "Соловьева Ольга Петровна",
+    "arenda_id": "2386",
+    "date_of_arenda": "2026-06-25",
+    "numb_days_of_arend": "8",
+    "price": "2200",
+    "car_id": "CR10"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR22",
+  "body": {
+    "arendator_id": "AR22",
+    "arendator_data": "Васильева Ирина Алексеевна",
+    "arenda_id": "2541",
+    "date_of_arenda": "2027-03-19",
+    "numb_days_of_arend": "5",
+    "price": "1400",
+    "car_id": "CR21"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR23",
+  "body": {
+    "arendator_id": "AR23",
+    "arendator_data": "Кузьмин Дмитрий Михайлович",
+    "arenda_id": "2716",
+    "date_of_arenda": "2027-12-14",
+    "numb_days_of_arend": "9",
+    "price": "2500",
+    "car_id": "CR07"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR24",
+  "body": {
+    "arendator_id": "AR24",
+    "arendator_data": "Михайлова Анастасия Владимировна",
+    "arenda_id": "2911",
+    "date_of_arenda": "2028-09-11",
+    "numb_days_of_arend": "2",
+    "price": "600",
+    "car_id": "CR16"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR25",
+  "body": {
+    "arendator_id": "AR25",
+    "arendator_data": "Петрова Елена Александровна",
+    "arenda_id": "3126",
+    "date_of_arenda": "2029-06-11",
+    "numb_days_of_arend": "7",
+    "price": "1800",
+    "car_id": "CR05"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR26",
+  "body": {
+    "arendator_id": "AR26",
+    "arendator_data": "Смирнов
+
+а Ольга Дмитриевна",
+    "arenda_id": "3361",
+    "date_of_arenda": "2030-03-15",
+    "numb_days_of_arend": "6",
+    "price": "1500",
+    "car_id": "CR22"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR27",
+  "body": {
+    "arendator_id": "AR27",
+    "arendator_data": "Козлов Василий Алексеевич",
+    "arenda_id": "3616",
+    "date_of_arenda": "2031-01-20",
+    "numb_days_of_arend": "4",
+    "price": "1000",
+    "car_id": "CR29"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR28",
+  "body": {
+    "arendator_id": "AR28",
+    "arendator_data": "Соколова Анна Владимировна",
+    "arenda_id": "3891",
+    "date_of_arenda": "2031-11-26",
+    "numb_days_of_arend": "10",
+    "price": "3000",
+    "car_id": "CR12"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR29",
+  "body": {
+    "arendator_id": "AR29",
+    "arendator_data": "Егоров Алексей Иванович",
+    "arenda_id": "4186",
+    "date_of_arenda": "2032-10-04",
+    "numb_days_of_arend": "3",
+    "price": "900",
+    "car_id": "CR24"
+  }
+},
+{
+  "index": "arendator",
+  "doc_type": "Arendator",
+  "id": "AR30",
+  "body": {
+    "arendator_id": "AR30",
+    "arendator_data": "Максимова Елена Петровна",
+    "arenda_id": "4501",
+    "date_of_arenda": "2033-08-14",
+    "numb_days_of_arend": "8",
+    "price": "2200",
+    "car_id": "CR11"
+  }
+}
+]

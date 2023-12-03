@@ -1,0 +1,724 @@
+[
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT01",
+    "body": {
+      "patient_id": "PT01",
+      "personal_data": "Шаповалова Мария Александровна",
+      "voucher": "1018765",
+      "date_of_arrival": "2018-01-22",
+      "number_of_days": "10",
+      "diagnosis": [
+        "Гипертоническая болезнь",
+        "Мигрень"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR07",
+        "PR12"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT02",
+    "body": {
+      "patient_id": "PT02",
+      "personal_data": "Иванов Иван Иванович",
+      "voucher": "2309851",
+      "date_of_arrival": "2019-06-12",
+      "number_of_days": "15",
+      "diagnosis": [
+        "Остеохондроз позвоночника",
+        "Расстройства опорно-двигательного аппарата",
+        "Неврозы и депрессии"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR08",
+        "PR15",
+        "PR27"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT03",
+    "body": {
+      "patient_id": "PT03",
+      "personal_data": "Петров Петр Петрович",
+      "voucher": "9876512",
+      "date_of_arrival": "2020-09-28",
+      "number_of_days": "7",
+      "diagnosis": [
+        "Бронхиальная астма",
+        "Хронический бронхит",
+        "Хронический панкреатит"
+      ],
+      "precedures_id": [
+        "PR04",
+        "PR10",
+        "PR18",
+        "PR23"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT04",
+    "body": {
+      "patient_id": "PT04",
+      "personal_data": "Сидорова Екатерина Васильевна",
+      "voucher": "5123498",
+      "date_of_arrival": "2021-03-15",
+      "number_of_days": "20",
+      "diagnosis": [
+        "Гинекологические заболевания",
+        "Бесплодие",
+        "Хроническая сердечная недостаточность",
+        "Расстройства сна"
+      ],
+      "precedures_id": [
+        "PR06",
+        "PR09",
+        "PR11",
+        "PR20",
+        "PR26"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT05",
+    "body": {
+      "patient_id": "PT05",
+      "personal_data": "Лебедев Андрей Николаевич",
+      "voucher": "7654321",
+      "date_of_arrival": "2018-09-03",
+      "number_of_days": "14",
+      "diagnosis": [
+        "Ожирение",
+        "Сахарный диабет",
+        "Гипертоническая болезнь"
+      ],
+      "precedures_id": [
+        "PR03",
+        "PR05",
+        "PR13",
+        "PR19",
+        "PR28"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT06",
+    "body": {
+      "patient_id": "PT06",
+      "personal_data": "Новикова Ольга Викторовна",
+      "voucher": "8765432",
+      "date_of_arrival": "2019-11-25",
+      "number_of_days": "12",
+      "diagnosis": [
+        "Остеоартрит",
+        "Остеопороз",
+        "Ревматоидный артрит"
+      ],
+      "precedures_id": [
+        "PR07",
+        "PR09",
+        "PR14",
+        "PR24",
+        "PR29"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT07",
+    "body": {
+      "patient_id": "PT07",
+      "personal_data": "Кузнецов Дмитрий Алексеевич",
+      "voucher": "6543210",
+      "date_of_arrival": "2020-06-08",
+      "number_of_days": "8",
+      "diagnosis": [
+        "Гастрит",
+        "Язва желудка",
+        "Хронический панкреатит",
+        "Холецистит"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR08",
+        "PR16",
+        "PR22",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT08",
+    "body": {
+      "patient_id": "PT08",
+      "personal_data": "Михайлова Елена Сергеевна",
+      "voucher": "9876543",
+      "date_of_arrival": "2021-02-10",
+      "number_of_days": "6",
+      "diagnosis": [
+        "Почечная недостаточность",
+        "Цистит",
+        "Острая респираторная вирусная инфекция"
+      ],
+      "precedures_id": [
+        "PR04",
+        "PR12",
+        "PR17",
+        "PR25"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT09",
+    "body": {
+      "patient_id": "PT09",
+      "personal_data": "Смирнов Алексей Владимирович",
+      "voucher": "4321567",
+      "date_of_arrival": "2018-07-17",
+      "number_of_days": "11",
+      "diagnosis": [
+        "Депрессия",
+        "Панические атаки",
+        "Психосоматические расстройства"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR03",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT10",
+    "body": {
+      "patient_id": "PT10",
+      "personal_data": "Иванов Андрей Петрович",
+      "voucher": "7654321",
+      "date_of_arrival": "2019-04-11",
+      "number_of_days": "7",
+      "diagnosis": [
+        "Бронхит",
+        "Астма",
+        "Пневмония"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR06",
+        "PR15",
+        "PR23",
+        "PR28"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT11",
+    "body": {
+      "patient_id": "PT11",
+      "personal_data": "Сергеева Екатерина Дмитриевна",
+      "voucher": "8765432",
+      "date_of_arrival": "2020-09-30",
+      "number_of_days": "9",
+      "diagnosis": [
+        "Онкологическое заболевание",
+        "Лейкемия",
+        "Меланома"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR07",
+        "PR13",
+        "PR22",
+        "PR26",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT12",
+    "body": {
+      "patient_id": "PT12",
+      "personal_data": "Петров Сергей Иванович",
+      "voucher": "9876543",
+      "date_of_arrival": "2021-03-15",
+      "number_of_days": "5",
+      "diagnosis": [
+        "Ишемическая болезнь сердца",
+        "Гиперлипидемия",
+        "Артериальная гипертензия"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR08",
+        "PR14",
+        "PR24"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT13",
+    "body": {
+      "patient_id": "PT13",
+      "personal_data": "Макарова Ольга Степановна",
+      "voucher": "5432109",
+      "date_of_arrival": "2018-11-21",
+      "number_of_days": "13",
+      "diagnosis": [
+        "Остеохондроз",
+        "Сколиоз",
+        "Грыжа позвоночника"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR05",
+        "PR11",
+        "PR18",
+        "PR27",
+        "PR29"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT14",
+    "body": {
+      "patient_id": "PT14",
+      "personal_data": "Иванова Наталья Сергеевна",
+      "voucher": "9870123",
+      "date_of_arrival": "2019-07-17",
+      "number_of_days": "8",
+      "diagnosis": [
+        "Диабет",
+        "Ожирение",
+        "Гипертиреоз"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR04",
+        "PR09",
+        "PR25"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT15",
+    "body": {
+      "patient_id": "PT15",
+      "personal_data": "Петрова Олеся Михайловна",
+      "voucher": "5678901",
+      "date_of_arrival": "2020-05-11",
+      "number_of_days": "14",
+      "diagnosis": [
+        "Остеопороз",
+        "Ревматоидный артрит",
+        "Люпус"
+      ],
+      "precedures_id": [
+        "PR11",
+        "PR19",
+        "PR27",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT16",
+    "body": {
+      "patient_id": "PT16",
+      "personal_data": "Сидоров Павел Анатольевич",
+      "voucher": "2345678",
+      "date_of_arrival": "2018-06-28",
+      "number_of_days": "6",
+      "diagnosis": [
+        "Хронический гастрит",
+        "Язва желудка",
+        "Панкреатит"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR07",
+        "PR13",
+        "PR20",
+        "PR26"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT17",
+    "body": {
+      "patient_id": "PT17",
+      "personal_data": "Павлова Юлия Викторовна",
+      "voucher": "4567890",
+      "date_of_arrival": "2019-10-15",
+      "number_of_days": "11",
+      "diagnosis": [
+        "Депрессия",
+        "Психоз",
+        "Шизофрения"
+      ],
+      "precedures_id": [
+        "PR03",
+        "PR08",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT18",
+    "body": {
+      "patient_id": "PT18",
+      "personal_data": "Григорьев Владимир Игоревич",
+      "voucher": "7654321",
+      "date_of_arrival": "2020-02-28",
+      "number_of_days": "9",
+      "diagnosis": [
+        "Простуда",
+        "Грипп",
+        "ОРВИ"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR06",
+        "PR18",
+        "PR24",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT19",
+    "body": {
+      "patient_id": "PT19",
+      "personal_data": "Михайлов Алексей Владимирович",
+      "voucher": "9876543",
+      "date_of_arrival": "2019-03-10",
+      "number_of_days": "12",
+      "diagnosis": [
+        "Острый аппендицит",
+        "Гастроэнтерит",
+        "Колит"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR05",
+        "PR12",
+        "PR17",
+        "PR22",
+        "PR29"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT20",
+    "body": {
+      "patient_id": "PT20",
+      "personal_data": "Николаева Елена Васильевна",
+      "voucher": "5432109",
+      "date_of_arrival": "2018-12-05",
+      "number_of_days": "7",
+      "diagnosis": [
+        "Бронхит",
+        "Астма",
+        "Пневмония"
+      ],
+      "precedures_id": [
+        "PR03",
+        "PR08",
+        "PR15",
+        "PR20",
+        "PR28"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT21",
+    "body": {
+      "patient_id": "PT21",
+      "personal_data": "Смирнов Андрей Андреевич",
+      "voucher": "8765432",
+      "date_of_arrival": "2020-07-12",
+      "number_of_days": "10",
+      "diagnosis": [
+        "Геморрой",
+        "Проктит",
+        "Протозоальные инфекции"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR06",
+        "PR11",
+        "PR17",
+        "PR23",
+        "PR29"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT22",
+    "body": {
+      "patient_id": "PT22",
+      "personal_data": "Поляков Денис Сергеевич",
+      "voucher": "2109876",
+      "date_of_arrival": "2019-09-20",
+      "number_of_days": "15",
+      "diagnosis": [
+        "Ожирение",
+        "Дислипидемия",
+        "Метаболический синдром"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR07",
+        "PR14",
+        "PR20",
+        "PR26",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT23",
+    "body": {
+      "patient_id": "PT23",
+      "personal_data": "Ковалев Егор Викторович",
+      "voucher": "9876543",
+      "date_of_arrival": "2018-06-15",
+      "number_of_days": "14",
+      "diagnosis": [
+        "Гепатит",
+        "Цирроз печени",
+        "Холецистит"
+      ],
+      "precedures_id": [
+        "PR03",
+        "PR08",
+        "PR12",
+        "PR17",
+        "PR22",
+        "PR28"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT24",
+    "body": {
+      "patient_id": "PT24",
+      "personal_data": "Лебедева Ксения Сергеевна",
+      "voucher": "5432109",
+      "date_of_arrival": "2019-04-28",
+      "number_of_days": "7",
+      "diagnosis": [
+        "Депрессия",
+        "Тревожное расстройство",
+        "Психоз"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR07",
+        "PR11",
+        "PR18",
+        "PR24",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT25",
+    "body": {
+      "patient_id": "PT25",
+      "personal_data": "Белякова Ольга Викторовна",
+      "voucher": "8765432",
+      "date_of_arrival": "2020-02-10",
+      "number_of_days": "10",
+      "diagnosis": [
+        "Ревматоидный артрит",
+        "Остеоартрит",
+        "Подагра"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR08",
+        "PR14",
+        "PR19",
+        "PR26",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT26",
+    "body": {
+      "patient_id": "PT26",
+      "personal_data": "Горбачев Сергей Михайлович",
+      "voucher": "2109876",
+      "date_of_arrival": "2019-10-05",
+      "number_of_days": "15",
+      "diagnosis": [
+        "Инфекционный мононуклеоз",
+        "Герпетическая инфекция",
+        "Вирусный гепатит"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR07",
+        "PR13",
+        "PR19",
+        "PR23",
+        "PR29"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT27",
+    "body": {
+      "patient_id": "PT27",
+      "personal_data": "Титов Антон Валерьевич",
+      "voucher": "9876543",
+      "date_of_arrival": "2018-07-20",
+      "number_of_days": "14",
+      "diagnosis": [
+        "Артериальная гипертензия",
+        "Ишемическая болезнь сердца",
+        "Острая сердечная недостаточность"
+      ],
+      "precedures_id": [
+        "PR03",
+        "PR09",
+        "PR12",
+        "PR18",
+        "PR24",
+        "PR28"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT28",
+    "body": {
+      "patient_id": "PT28",
+      "personal_data": "Иванов Алексей Петрович",
+      "voucher": "8765432",
+      "date_of_arrival": "2022-01-15",
+      "number_of_days": "5",
+      "diagnosis": [
+        "Острый панкреатит",
+        "Желчекаменная болезнь",
+        "Гастроэзофагеальная рефлюксная болезнь"
+      ],
+      "precedures_id": [
+        "PR02",
+        "PR08",
+        "PR14",
+        "PR19",
+        "PR25",
+        "PR30"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT29",
+    "body": {
+      "patient_id": "PT29",
+      "personal_data": "Смирнова Екатерина Дмитриевна",
+      "voucher": "5432109",
+      "date_of_arrival": "2022-05-28",
+      "number_of_days": "10",
+      "diagnosis": [
+        "Острый бронхит",
+        "Астма",
+        "Хроническая обструктивная болезнь легких"
+      ],
+      "precedures_id": [
+        "PR01",
+        "PR06",
+        "PR11",
+        "PR18",
+        "PR23",
+        "PR29"
+      ]
+    }
+  },
+  {
+    "index": "patient",
+    "doc_type": "Patient",
+    "id": "PT30",
+    "body": {
+      "patient_id": "PT30",
+      "personal_data": "Медведев Петр Андреевич",
+      "voucher": "9876543",
+      "date_of_arrival": "2021-03-10",
+      "number_of_days": "7",
+      "diagnosis": [
+        "Острый гастрит",
+        "Дуоденит",
+        "Гастроэнтероколит"
+      ],
+      "precedures_id": [
+        "PR03",
+        "PR08",
+        "PR12",
+        "PR18",
+        "PR25",
+        "PR30"
+      ]
+    }
+  }
+]
