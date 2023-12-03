@@ -1,0 +1,98 @@
+Установка hadoop - https://infoit.com.ua/linux/kak-ustanovit-apache-hadoop-v-ubuntu-20-04-lts/
+Установка Spark - https://infoit.com.ua/linux/kak-ustanovit-apache-spark-v-ubuntu-20-04-lts/
+
+Hadoop -- start-dfs.sh    -- http://127.0.0.1:9870
+DataNode elena-VBox:9866  -- http://127.0.0.1:9864
+YARN   -- start-yarn.sh   -- http://127.0.0.1:8088
+Spark  -- start-master.sh -- http://127.0.0.1:8080 
+			        http://127.0.0.1:4040/jobs/
+ES     --                 -- http://localhost:9200
+ES     -- sudo systemctl start elasticsearch
+       -- sudo systemctl enable elasticsearch
+Kibana                    -- http://127.0.0.1:5601
+Neo4j  http://127.0.0.1:7474/browser/
+
+
+войти в hadoopuser -> exec $SHELL
+запустить все:
+start-dfs.sh
+start-yarn.sh 
+cd /usr/spark/spark-3.2.1-bin-hadoop2.7/sbin
+sudo ./start-master.sh
+sudo systemctl start elasticsearch
+sudo systemctl start kibana
+sudo systemctl start kibana.service
+sudo systemctl start neo4j
+./hdp.sh
+
+сделать автоматический запуск:
+sudo systemctl enable elasticsearch
+sudo systemctl enable kibana
+sudo systemctl enable kibana.service
+sudo systemctl enable neo4j
+
+
+выключить:
+stop-dfs.sh
+stop-yarn.sh 
+cd /usr/spark/spark-3.2.1-bin-hadoop2.7/sbin
+./stop-master.sh
+cd
+sudo systemctl stop elasticsearch
+hadoop
+sudo systemctl stop kibana
+sudo systemctl stop neo4j
+-------------------
+
+Генерация файлов JSON
+Генератор-онлайн - https://app.json-generator.com/qSFoUpQPmKHn
+Чтобы использовать массивы:
+	Поместить строки в кавычки для списка - https://service.webboss.pro/zakavychit
+	Поставить "," после каждой строки - https://lineeditor.ru/index.php
+	Подсчитать количество строк - https://online-bloknot.ru/
+	Генератор паролей (id клиента - в моем случае) - https://calcsbox.com/post/besplatnyj-generator-parolej-onlajn.html
+	Генератор ФИО - https://randomus.ru/name?type=0&sex=1&count=100
+Просмотр JSON-файла в удобочитаемом виде - https://jsoneditoronline.org/#left=local.xeziwu&right=local.zewaye
+
+
+-----------
+
+
+БОЛЕЕ ПОДРОБНЫЕ ЗАМЕТКИ ПО УСТАНОВКЕ
+
+***Установка ElasticSearch и Kibana:
+https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-20-04-ru
+Если ошибка: Kibana server is not ready yet, то
+curl --request DELETE 'http://elastic-search-host:9200/.kibana*'
+pip3 install elasticsearch
+
+***Установка Neo4j
+Лаба 7 и
+https://debian.neo4j.com/
+
+***Установка hadoop:
+sudo addgroup hadoopgroup
+sudo adduser --ingroup hadoopgroup hadoopuser
+sudo -i
+sudo apt-get remove openssh-client openssh-server
+sudo apt-get install openssh-client openssh-server
+sudo service ssh start
+su - hadoopuser
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+chmod 0600 ~/.ssh/authorized_keys
+ssh localhost
+wget http://mirror.intergrid.com.au/apache/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz
+tar -xvzf hadoop-3.3.0.tar.gz
+sudo mv hadoop-3.3.0 /usr/local/hadoop
+sudo mkdir /usr/local/hadoop/logs
+sudo chown -R hadoopuser:hadoopgroup /usr/local/hadoop/
+
+***Установка Spark:
+Лаба №8 плюс:
+для скачивания файлов:
+https://archive.apache.org/dist/spark/spark-3.0.0/spark-3.0.0-bin-hadoop3.2.tgz
+sudo apt-get install python2
+
+***Проверка оставшегося места на диске
+df -h
